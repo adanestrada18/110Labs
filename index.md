@@ -15,7 +15,7 @@ for i in loop
 This is my [repository](https://github.com/adanestrada18/110Labs.git)
 
 ## Section Links
-
+[This is my section](https://github.com/adanestrada18/110Labs/blob/main/index.md#section-links)
 ## Relative Links
 [This is my readme](/README.md)
 
