@@ -33,5 +33,7 @@ I like
 
 ## Task List
 -[x] Finished this assigment
+
 -[ ] Passed this class
+
 -[ ] Received an internship
